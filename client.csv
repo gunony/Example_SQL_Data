@@ -1,10 +1,13 @@
 ﻿id_client,town,country,client_name
-fr116,Annecy ,France, Le Clos des Sens
-fr118,Cassis ,France, La Villa Madie
-fr124,Île de Noirmoutier / L'Herbaudière ,France, La Marine
-fr133,Paris,France, L'Ambroisie
-fr134,Paris,France, Arpège
-fr140,Paris,France, Le Pré Catelan
+fr116,Annecy ,France,Le Clos des Sens
+fr118,Cassis ,France,La Villa Madie
+fr121,Courchevel ,France, Le 1947 à Cheval Blanc
+fr124,Île de Noirmoutier / L'Herbaudière ,France,La Marine
+fr128,Menton ,France, Mirazur
+fr133,Paris,France,L'Ambroisie
+fr134,Paris,France,Arpège
+fr140,Paris,France,Le Pré Catelan
+fr143,Saint-Tropez ,France, La Vague d'Or - Cheval Blanc St-Tropez
 it223,Milan,Italie,Enrico Bartolini al Mudec
 it236,Florence,Italie,Enoteca Pinchiorri
 ru232,Londres,Royaume-Uni,The ledbury
@@ -15,5 +18,5 @@ ja226,Tokyo,Japon,Sézanne
 ar102,Buenos Aires,Argentine,Aramburu
 ch109,Beijing,Chine,Xin Rong Ji
 eu113,Chicago,Etats-Unis,Smyth
-fr117,Les Baux-de-Provence ,France, L'Oustau de Baumanière
-fr141,Reims ,France, Assiette Champenoise
+fr117,Les Baux-de-Provence ,France,L'Oustau de Baumanière
+fr141,Reims ,France,Assiette Champenoise
