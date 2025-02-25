@@ -1,5 +1,14 @@
 ﻿id_client,town,country,client_name
+ar102,Buenos Aires,Argentine,Aramburu
+ch107,Shanghai,Chine,Taian Table
+ch109,Beijing,Chine,Xin Rong Ji
+ch239,Beijing,Chine,Chao Shang Chao
+eu113,Chicago,Etats-Unis,Smyth
+eu115,New York,Etats-Unis,Le Bernardin
+eu116,San Francisco,Etats-Unis,Atelier Crenn
+eu117,San Diego,Etats-Unis,Addison
 fr116,Annecy ,France,Le Clos des Sens
+fr117,Les Baux-de-Provence ,France,L'Oustau de Baumanière
 fr118,Cassis ,France,La Villa Madie
 fr121,Courchevel ,France, Le 1947 à Cheval Blanc
 fr124,Île de Noirmoutier / L'Herbaudière ,France,La Marine
@@ -7,26 +16,19 @@ fr128,Menton ,France, Mirazur
 fr133,Paris,France,L'Ambroisie
 fr134,Paris,France,Arpège
 fr140,Paris,France,Le Pré Catelan
-fr143,Saint-Tropez ,France, La Vague d'Or - Cheval Blanc St-Tropez
-it223,Milan,Italie,Enrico Bartolini al Mudec
-it236,Florence,Italie,Enoteca Pinchiorri
-ru232,Londres,Royaume-Uni,The ledbury
-ch107,Shanghai,Chine,Taian Table
-eu115,New York,Etats-Unis,Le Bernardin
-hk221,Hong Kong,Hong Kong,Caprice
-ja226,Tokyo,Japon,Sézanne
-ar102,Buenos Aires,Argentine,Aramburu
-ch109,Beijing,Chine,Xin Rong Ji
-eu113,Chicago,Etats-Unis,Smyth
-fr117,Les Baux-de-Provence ,France,L'Oustau de Baumanière
 fr141,Reims ,France,Assiette Champenoise
-ch239,Beijing,Chine,Chao Shang Chao
-eu116,San Francisco,Etats-Unis,Atelier Crenn
+fr143,Saint-Tropez ,France, La Vague d'Or - Cheval Blanc St-Tropez
+hk221,Hong Kong,Hong Kong,Caprice
+it223,Milan,Italie,Enrico Bartolini al Mudec
+it224,Rubano,Italie,Le Calandre
 it225,Rome,Italie,La Pergola
+it236,Florence,Italie,Enoteca Pinchiorri
 it240,Modène,Italie,Osteria Francescana
 it241,Vérone,Italie,Casa Perbellini 12 Apostoli
-ru231,Cartmel,Royaume-Uni,L'Enclume
-ru233,Bray,Royaume-Uni,Fat Duck
-ru236,Cambridge,Royaume-Uni,Midsummer House
+ja226,Tokyo,Japon,Sézanne
 ja227,Kyoto,Japon,Hyotei
 ja228,Osaka,Japon,Hajime
+ru231,Cartmel,Royaume-Uni,L'Enclume
+ru232,Londres,Royaume-Uni,The ledbury
+ru233,Bray,Royaume-Uni,Fat Duck
+ru236,Cambridge,Royaume-Uni,Midsummer House
