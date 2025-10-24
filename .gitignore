@@ -1,4 +1,8 @@
 # avoid excel files
 *.xlsx
 
+# avoid jupyter checkpoints
+.ipynb_checkpoints/
+
+
 
